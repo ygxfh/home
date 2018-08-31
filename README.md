@@ -1,5 +1,4 @@
-# home
-ygxfh 云共享番号 最新网址发布站
+# ygxfh 云共享番号 最新网址发布站
 <p>请选择最新网址</p>
 <p><a href="http://366fh.com" rel="nofollow">http://366fh.com</a></p>
 <p>永久网址</p>
