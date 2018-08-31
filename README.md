@@ -1,7 +1,7 @@
 # home
 ygxfh 云共享番号 最新网址发布站
 <p>请选择最新网址</p>
-<p><a href="http://366fh.com" rel="nofollow">cn.ax101.ws</a></p>
+<p><a href="http://366fh.com" rel="nofollow">http://366fh.com</a></p>
 <p>永久网址</p>
 <p>地址1: <a href="http://ygxfh.com" rel="nofollow">http://ygxfh.com</a></p>
 <p>地址2: <a href="https://www.emoneyspace.com/ygxfh" rel="nofollow">https://www.emoneyspace.com/ygxfh</a></p>
