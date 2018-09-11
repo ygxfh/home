@@ -1,8 +1,8 @@
-# ygxfh 云共享番号 最新网址发布站
+# 云共享番号 网址发布站
 <p>最新网址</p>
-<p><a href="http://366fh.com" rel="nofollow">http://366fh.com</a></p>
+<p><a href="https://www.366fh.com" rel="nofollow">http://www.366fh.com</a></p>
 <p>永久网址,请加收藏,防迷路</p>
-<p>地址1: <a href="http://ygxfh.com" rel="nofollow">http://ygxfh.com</a></p>
+<p>地址1: <a href="https://www.ygxfh.com" rel="nofollow">http://www.ygxfh.com</a></p>
 <p>地址2: <a href="https://www.emoneyspace.com/ygxfh" rel="nofollow">https://www.emoneyspace.com/ygxfh</a></p>
 <p>地址3: <a href="https://github.com/ygxfh/home">https://github.com/ygxfh/home</a></p>
 <p>地址4: <a href="https://ygxfh.wordpress.com/">https://ygxfh.wordpress.com/</a></p>
