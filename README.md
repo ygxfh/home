@@ -1,6 +1,5 @@
 # 云共享番号 网址发布站
-<p>最新网址</p>
-<p><a href="https://www.366fh.com" rel="nofollow">https://www.366fh.com</a></p>
+<p>最新网址 <a href="https://www.366fh.com" rel="nofollow">https://www.366fh.com</a></p>
 <p>永久网址,请加收藏,防迷路</p>
 <p>地址1: <a href="https://www.ygxfh.com" rel="nofollow">https://www.ygxfh.com</a></p>
 <p>地址2: <a href="https://www.emoneyspace.com/ygxfh" rel="nofollow">https://www.emoneyspace.com/ygxfh</a></p>
