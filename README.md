@@ -6,31 +6,8 @@
 <p>国产浏览器(如 UC、360、QQ、百度) 不定期可能会屏蔽网站，建议使用谷歌浏览器观看</p>
 <p><a href="https://www.google.cn/chrome" title="谷歌浏览器" rel="nofollow" target="_blank">谷歌浏览器下载</a></p>
 <p>若你是 iPhone、Mac 的用户，建议使用系统自带的 Safari 浏览器</p>
-<style type="text/css">
 
-a:link {
-	text-decoration: none;
-}
-a:visited {
-	text-decoration: none;
-}
-a:hover {
-	text-decoration: none;
-}
-a:active {
-	text-decoration: none;
-}
-
-.box{
-	border: solid 3px #38f; font-size:3em; padding:1em;
-
-}
-.box h9{ display:block;
-	background-color:#38f;color:#FFFFFF; font-size:1em; margin:-1em -1em 0.2em -1em;
-}
-
-</style>
-<div class="box"><h9>最新网址</h9>
+<div class="box" style="border: solid 3px #38f; font-size:3em; padding:1em;"><h9 style="display:block;background-color:#38f;color:#FFFFFF; font-size:1em; margin:-1em -1em 0.2em -1em;">最新网址</h9>
   <a href="https://w2.vyun.top" target="_blank">w2.vyun.top</a></div>
 <br>
 <br>
