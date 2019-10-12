@@ -1,6 +1,6 @@
 # 云共享番号 发布站
-<p>官方站 <a href="https://w2.vyun.top">https://w2.vyun.top</a></p>
-<p>最新网址 <a href="https://w2.vyun.top">https://w2.vyun.top</a></p>
+<p>官方站 <a href="https://a.vyun.top">https://a.vyun.top</a></p>
+<p>最新网址 <a href="https://a.vyun.top">https://a.vyun.top</a></p>
 <p><s>废弃网址 ygxfh.com  366fh.com</s></p>
 
 
